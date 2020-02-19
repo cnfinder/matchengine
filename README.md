@@ -98,12 +98,12 @@
  
 
 中极版撮合引擎架构设计
-  请微信联系哦
+  请微信联系哦 VX: supper___man
 
  ![](https://img-blog.csdnimg.cn/20200219191401197.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1aHVhbG9uZzEzMTQ=,size_16,color_FFFFFF,t_70)
 
 终极版撮合引擎架构设计
- 请微信联系哦
+ 请微信联系哦 VX: supper___man
 
 ![](https://img-blog.csdnimg.cn/20200219191401197.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3d1aHVhbG9uZzEzMTQ=,size_16,color_FFFFFF,t_70)
 
